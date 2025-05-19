@@ -6038,4 +6038,9 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	swordfish: {
+		tier: "Uber",
+		doublesTier: "(DOU)",
+		natDexTier: "OU",
+	},
 };

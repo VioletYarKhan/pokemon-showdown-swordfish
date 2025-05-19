@@ -19809,4 +19809,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	swordfish: {
+		num: 3966,
+		name: "Swordfish",
+		types: ["Water", "Electric"],
+		gender: "F",
+		baseStats: { hp: 90, atk: 90, def: 110, spa: 135, spd: 85, spe: 90 },
+		abilities: { 0: "Swift Swim", 1: "Static", H: "Regenerator"},
+		heightm: 1.17,
+		weightkg: 40.3,
+		color: "Gray",
+		eggGroups: ["Mineral", "Water 3"],
+	},
 };
